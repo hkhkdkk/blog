@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
-Web & Mobile Developer
+to be add soon ...
 
 ### Contact me
 
