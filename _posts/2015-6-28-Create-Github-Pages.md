@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Github Pages
+title: How To Create Github Pages
 ---
 
 Nah jadi ada 2 jenis github pages itu sendiri yakni page untuk user/organization dan pages untuk project.
